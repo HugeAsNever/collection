@@ -19,6 +19,17 @@ for (int count = 0; count < matchedAuthors.Count; count++)
 string Text = "1 One, 2 Two, 3 Three is good.";
 
 string[] digits = Regex.Split(Text, @"\D+");
+var i = 1;
+
+Console.WriteLine("Start");
+foreach (string e in digits)
+{
+    Console.WriteLine($"{i}: {e}");
+    i++;
+}
+Console.WriteLine("End");
+Console.WriteLine(Text.Length);
+Console.WriteLine(digits.Length);
 
 foreach (string value in digits)
 {
