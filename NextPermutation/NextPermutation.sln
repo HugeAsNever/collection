@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextPermutation", "NextPermutation\NextPermutation.csproj", "{1870C69B-EC7B-40C4-87F0-5ACA3FB19BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1870C69B-EC7B-40C4-87F0-5ACA3FB19BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1870C69B-EC7B-40C4-87F0-5ACA3FB19BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1870C69B-EC7B-40C4-87F0-5ACA3FB19BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1870C69B-EC7B-40C4-87F0-5ACA3FB19BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AD9D406-AF12-43FB-9AF8-808061B578FD}
+	EndGlobalSection
+EndGlobal
